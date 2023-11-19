@@ -1,0 +1,11 @@
+.sizeing{
+    display: grid;
+    column-gap: 10px;
+    padding-top: 10px;
+                grid-template-columns: 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px;
+                grid-template-rows: 40px;
+}
+
+.click-size{
+    grid-column: 1 / 3;
+}

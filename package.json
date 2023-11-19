@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "npm": "^10.2.4"
+  },
+  "scripts": {
+    "start": "Sass --watch ./style/main.scss ./style/style.css "
+  }
+}
